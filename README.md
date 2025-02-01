@@ -9,7 +9,7 @@
 
 ---
 
-### 🎥 Rotating Text Animation
+### 🎥 Welcome to my github profile
 ![Rotating Text](https://raw.githubusercontent.com/pravallikapulipaka/pravallikapulipaka/main/Your%20paragraph%20text.gif)
 
 ---
